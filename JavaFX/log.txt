@@ -1,0 +1,2 @@
+Client is not authorized to connect to ServerException in Application start method
+

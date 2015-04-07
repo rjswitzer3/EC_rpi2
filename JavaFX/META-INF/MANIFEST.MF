@@ -1,0 +1,54 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Madhusudhan
+JavaFX-Version: 2.2
+Implementation-Title: Integrated_UI
+Implementation-Version: 1.0
+JavaFX-Application-Class: integrated_ui.Integrated_UI
+JavaFX-Class-Path: 
+Permissions: all-permissions
+Created-By: JavaFX Packager
+Main-Class: com/javafx/main/Main
+Codebase: *
+
+Name: integrated_ui/arrow3.png
+SHA-256-Digest: rQSEQpqLAw1tV7uB+O8a7puy1WTuDsaH7axFBJgs/EI=
+
+Name: com/javafx/main/Main.class
+SHA-256-Digest: KxYytwZASwvQ4mPhOoRW7nGAOOjprQpEaG3vjY5b4mQ=
+
+Name: integrated_ui/arrow1.png
+SHA-256-Digest: VMi5Sw5CV8493CBGtDYofg0TjqEhJtU4hukQthq4agU=
+
+Name: integrated_ui/FXMLDocument.fxml
+SHA-256-Digest: Skj2pls5illjfudncUulhwdHix3Cq19NVm59UgiOZPQ=
+
+Name: integrated_ui/Integrated_UI.class
+SHA-256-Digest: vFBFbW51BbMSmD4X5zBoc/Eegd/bHC1JqeHHVV6h1no=
+
+Name: integrated_ui/arrow4.png
+SHA-256-Digest: mi8JIP4U0NpW+MXtupY+5cEgqJ2BTwgbpPeAVwixoJQ=
+
+Name: com/javafx/main/Main$2.class
+SHA-256-Digest: vZSZLfGvC6SeQGWGSpezFhSgrDrSvZRDLqJTFP6SVdY=
+
+Name: integrated_ui/FXMLDocument.fxml.bak
+SHA-256-Digest: nW2GBl3VRiijLzaZlRzFDAbCmp6r5FPjMU8HNAdlH5U=
+
+Name: integrated_ui/FXMLDocumentController.class
+SHA-256-Digest: cFtMjrstmK3lScLiOIl6CjaLwADoet9/J8d4BoGuLhk=
+
+Name: integrated_ui/arrow2.png
+SHA-256-Digest: UddjGZgbHnYmdE4sIdxci6Kgar082yYOD1OTCYimDWE=
+
+Name: integrated_ui/arrow.png
+SHA-256-Digest: dpEwg8XNgtbe5X/jeWU0uKTvamDc8cvqvG9reberk9s=
+
+Name: com/javafx/main/NoJavaFXFallback.class
+SHA-256-Digest: jvGBkWbtsUnepWPF8LiNlcXwm4Lud9yixXLGZB/Uih8=
+
+Name: com/javafx/main/Main$1.class
+SHA-256-Digest: Va4S3oQbyRywYzYUOxCBCMWtMWBV9dQKLRxHcYpdroc=
+
+Name: integrated_ui/FXMLDocumentController$1.class
+SHA-256-Digest: 8khTicbBAGzlh/n3xCrvnBRlZVOAoGMxusFNW1eGMMY=
+
